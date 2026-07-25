@@ -19,10 +19,7 @@ It implements an Airport Flight Management System in C using Linked Lists and Qu
 - Land arriving and emergency flights
 - Depart scheduled flights
 - Manage passengers
-  - View passengers
-  - Add passengers
-  - Remove passengers
-- Display current airport status
+- Display airport status
 
 ---
 
@@ -56,34 +53,12 @@ It implements an Airport Flight Management System in C using Linked Lists and Qu
 
 ---
 
-## Main Menu
-
-1. Load files
-2. Print all flights
-3. Print flight details
-4. Add a new flight
-5. Land a flight
-6. Depart a flight
-7. Cancel a flight
-8. Display flight status
-9. Manage passengers
-10. Exit
-
----
-
-## Input Files
-
-The system reads flight information from `flight.txt` and passenger information from `passenger.txt`.
-
----
-
 ## Course
 
 Data Structures
 
 ---
 
-## Authors
+## Author
 
-- Rahaf Mahmoud
-- Abdalrahman Abdullah
+**Rahaf Alqam**
